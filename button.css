@@ -1,0 +1,16 @@
+.free
+{
+   overflow: hidden;
+   background-color: aqua;
+}
+
+.navbar a 
+{
+  float:left;
+  color: green;
+  padding:10px 20px;
+  font-size: 12px;
+}
+body{
+  background-color: black;
+}
